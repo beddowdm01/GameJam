@@ -1,0 +1,1079 @@
+﻿Log file open, 08/27/19 20:54:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.309432
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: Radeon RX 590 Series
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.27-19.54.06:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.27-19.54.06:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.27-19.54.06:026][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.27-19.54.06:058][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:058][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.27-19.54.06:058][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.27-19.54.06:058][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:058][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.27-19.54.06:058][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:058][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.27-19.54.06:058][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.27-19.54.06:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.27-19.54.06:060][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.27-19.54.06:060][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.27-19.54.06:060][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.27-19.54.06:071][  0]LogHAL: Display: Platform has ~ 16 GB [17075908608 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.27-19.54.06:071][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.27-19.54.06:071][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.27-19.54.06:071][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:071][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.27-19.54.06:071][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.27-19.54.06:072][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Scalability.ini]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.27-19.54.06:073][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/beddo/Desktop/GameJam/Saved/Config/Windows/Engine.ini]
+[2019.08.27-19.54.06:073][  0]LogInit: Computer: DESKTOP-F4J06O4
+[2019.08.27-19.54.06:073][  0]LogInit: User: beddo
+[2019.08.27-19.54.06:073][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.27-19.54.06:073][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.27-19.54.06:074][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.27-19.54.06:074][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.27-19.54.06:074][  0]LogMemory: Process Physical Memory: 97.31 MB used, 97.32 MB peak
+[2019.08.27-19.54.06:074][  0]LogMemory: Process Virtual Memory: 89.08 MB used, 89.08 MB peak
+[2019.08.27-19.54.06:074][  0]LogMemory: Physical Memory: 5477.56 MB used,  10807.29 MB free, 16284.86 MB total
+[2019.08.27-19.54.06:074][  0]LogMemory: Virtual Memory: 4656.38 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.08.27-19.54.06:095][  0]LogInit: Using OS detected language (en-GB).
+[2019.08.27-19.54.06:095][  0]LogInit: Using OS detected locale (en-GB).
+[2019.08.27-19.54.06:096][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.08.27-19.54.06:307][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.27-19.54.06:391][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.27-19.54.06:391][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.27-19.54.06:632][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.27-19.54.06:632][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.27-19.54.06:681][  0]LogD3D11RHI:    0. 'Radeon RX 590 Series' (Feature Level 11_0)
+[2019.08.27-19.54.06:681][  0]LogD3D11RHI:       8172/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.08.27-19.54.06:685][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.27-19.54.06:685][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.27-19.54.06:685][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.27-19.54.06:696][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.27-19.54.06:696][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.08.27-19.54.06:696][  0]LogWindows: EnumDisplayDevices:
+[2019.08.27-19.54.06:697][  0]LogWindows:    0. 'Radeon RX 590 Series' (P:0 D:1)
+[2019.08.27-19.54.06:697][  0]LogWindows:    1. 'Radeon RX 590 Series' (P:1 D:1)
+[2019.08.27-19.54.06:697][  0]LogWindows:    2. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:698][  0]LogWindows:    3. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:698][  0]LogWindows:    4. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:699][  0]LogWindows:    5. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:700][  0]LogWindows:    6. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:700][  0]LogWindows:    7. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:701][  0]LogWindows:    8. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:701][  0]LogWindows:    9. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:702][  0]LogWindows:    10. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:702][  0]LogWindows:    11. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:703][  0]LogWindows:    12. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:703][  0]LogWindows:    13. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:703][  0]LogWindows:    14. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:704][  0]LogWindows:    15. 'Radeon RX 590 Series' (P:0 D:0)
+[2019.08.27-19.54.06:704][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2019.08.27-19.54.06:704][  0]LogD3D11RHI:     Adapter Name: Radeon RX 590 Series
+[2019.08.27-19.54.06:704][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.12.1.1 (internal:25.20.14011.10001, unified:25.20.14011.10001)
+[2019.08.27-19.54.06:704][  0]LogD3D11RHI:      Driver Date: 11-30-2018
+[2019.08.27-19.54.06:704][  0]LogRHI: Texture pool is 5720 MB (70% of 8172 MB)
+[2019.08.27-19.54.06:877][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.27-19.54.06:883][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.27-19.54.06:883][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.27-19.54.06:883][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.27-19.54.06:890][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.08.27-19.54.07:243][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.27-19.54.07:263][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.27-19.54.07:285][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.27-19.54.07:305][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.27-19.54.07:325][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.27-19.54.07:345][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.27-19.54.07:366][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.27-19.54.07:386][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.27-19.54.07:396][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.27-19.54.07:512][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.27-19.54.07:514][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.27-19.54.07:576][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.27-19.54.07:576][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.27-19.54.07:611][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.27-19.54.07:611][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.27-19.54.07:628][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.27-19.54.07:647][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.27-19.54.07:665][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.27-19.54.07:684][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.27-19.54.07:750][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.27-19.54.07:750][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.27-19.54.07:751][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.27-19.54.07:763][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.27-19.54.07:828][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Users/beddo/Desktop/GameJam/Intermediate/Shaders/WorkingDirectory/5764/).
+[2019.08.27-19.54.07:828][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/beddo/AppData/Local/Temp/UnrealShaderWorkingDir/66B311164B48FE87FCC4C981F9271CDA/'.
+[2019.08.27-19.54.07:832][  0]LogXGEController: Cleaning working directory: C:/Users/beddo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.27-19.54.07:832][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.27-19.54.07:832][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.27-19.54.07:832][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.27-19.54.08:665][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.27-19.54.08:735][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/beddo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.27-19.54.08:735][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/beddo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.27-19.54.08:735][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/beddo/Desktop/GameJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.27-19.54.08:735][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.27-19.54.08:735][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/beddo/Desktop/GameJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.27-19.54.08:736][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.27-19.54.08:750][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.27-19.54.08:750][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.27-19.54.08:750][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.27-19.54.08:763][  0]LogDerivedDataCache: Using Local data cache path C:/Users/beddo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.27-19.54.08:763][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.27-19.54.08:763][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.27-19.54.08:796][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.27-19.54.08:797][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.27-19.54.08:798][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.27-19.54.08:895][  0]LogAssetRegistry: FAssetRegistry took 0.0389 seconds to start up
+[2019.08.27-19.54.09:432][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.27-19.54.09:627][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.27-19.54.09:627][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.27-19.54.09:627][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.27-19.54.09:627][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.27-19.54.09:627][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.27-19.54.09:640][  0]LogNetVersion: GameJam 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 419399240)
+[2019.08.27-19.54.10:139][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.033584 seconds
+[2019.08.27-19.54.10:149][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.27-19.54.10:149][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.27-19.54.10:149][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.27-19.54.11:182][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.27-19.54.11:197][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.27-19.54.11:314][  0]SourceControl: Source control is disabled
+[2019.08.27-19.54.11:314][  0]SourceControl: Source control is disabled
+[2019.08.27-19.54.11:316][  0]SourceControl: Source control is disabled
+[2019.08.27-19.54.11:317][  0]SourceControl: Source control is disabled
+[2019.08.27-19.54.11:406][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.27-19.54.11:550][  0]LogOcInput: OculusInput pre-init called
+[2019.08.27-19.54.12:318][  0]LogEngine: Initializing Engine...
+[2019.08.27-19.54.12:319][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.27-19.54.12:321][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.27-19.54.12:572][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.27-19.54.12:596][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.27-19.54.12:647][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-19.54.12:668][  0]LogInit: FAudioDevice initialized.
+[2019.08.27-19.54.12:669][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.27-19.54.12:774][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/beddo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.27-19.54.12:783][  0]LogInit: Texture streaming: Enabled
+[2019.08.27-19.54.12:809][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.27-19.54.12:834][  0]LogInit: Transaction tracking system initialized
+[2019.08.27-19.54.12:865][  0]BlueprintLog: New page: Editor Load
+[2019.08.27-19.54.12:978][  0]LocalizationService: Localization service is disabled
+[2019.08.27-19.54.13:340][  0]LogFileCache: Scanning file cache for directory 'C:/Users/beddo/Desktop/GameJam/Content/' took 0.01s
+[2019.08.27-19.54.13:340][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.27-19.54.13:340][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.27-19.54.13:585][  0]SourceControl: Source control is disabled
+[2019.08.27-19.54.13:585][  0]Cmd: MAP LOAD FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/testLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.27-19.54.13:585][  0]LightingResults: New page: Lighting Build
+[2019.08.27-19.54.13:589][  0]MapCheck: New page: Map Check
+[2019.08.27-19.54.13:589][  0]LightingResults: New page: Lighting Build
+[2019.08.27-19.54.13:714][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.08.27-19.54.13:841][  0]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-19.54.13:847][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.27-19.54.13:980][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.08.27-19.54.13:980][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.27-19.54.13:980][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2019.08.27-19.54.13:980][  0]LogFileHelpers: Loading map 'testLevel' took 0.396
+[2019.08.27-19.54.14:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-19.54.14:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-19.54.14:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-19.54.14:171][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-19.54.14:179][  0]LogCollectionManager: Loaded 0 collections in 0.002473 seconds
+[2019.08.27-19.54.14:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/beddo/Desktop/GameJam/Saved/Collections/' took 0.01s
+[2019.08.27-19.54.14:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/beddo/Desktop/GameJam/Content/Developers/beddo/Collections/' took 0.00s
+[2019.08.27-19.54.14:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/beddo/Desktop/GameJam/Content/Collections/' took 0.00s
+[2019.08.27-19.54.14:196][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.27-19.54.14:211][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2732 classes and 659 folders.
+[2019.08.27-19.54.14:220][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.27-19.54.14:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:234][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:234][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.27-19.54.14:272][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.27-19.54.14:279][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.27-19.54.15:737][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.27-19.54.15:775][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.27-19.54.15:778][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.27-19.54.15:785][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.27-19.54.15:866][  0]LogRenderer: Reallocating scene render targets to support 1076x572 Format 10 NumSamples 1 (Frame:1).
+[2019.08.27-19.54.16:042][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.27-19.54.16:042][  0]LogLoad: (Engine Initialization) Total time: 12.30 seconds
+[2019.08.27-19.54.16:042][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.27-19.54.16:103][  0]LogAssetRegistry: Asset discovery search completed in 7.2297 seconds
+[2019.08.27-19.54.16:106][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.27-19.54.16:106][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.08.27-19.54.16:108][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.27-19.54.16:134][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.27-19.54.17:072][101]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.27-19.54.38:426][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-19.54.41:565][962]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyParent.EnemyParent
+[2019.08.27-19.54.41:903][962]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.08.27-19.54.43:039][962]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.27-19.54.43:122][963]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.27-19.54.47:767][347]LogSlate: Window 'EnemyParent' being destroyed
+[2019.08.27-19.55.26:848][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-19.55.29:966][337]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/2DCharacterBP.2DCharacterBP
+[2019.08.27-19.55.51:495][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-19.55.55:688][325]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/2DCharacter.2DCharacter
+[2019.08.27-19.56.24:913][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DCharacter" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Character/2DCharacter.uasset" SILENT=true
+[2019.08.27-19.56.24:950][242]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/2DCharacterE65F30964CE17C014AF01D9DBF396CCD.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Character/2DCharacter.uasset'
+[2019.08.27-20.05.02:038][574]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.27-20.05.03:063][686]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.27-20.05.09:855][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.05.11:443][638]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyParent.EnemyParent
+[2019.08.27-20.05.57:213][905]BlueprintLog: New page: Compile EnemyParent
+[2019.08.27-20.05.57:502][905]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2019.08.27-20.05.57:946][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyParent" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyParent.uasset" SILENT=true
+[2019.08.27-20.05.57:980][951]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/EnemyParentDF29F7EB46E02EF08DE3C3992DBB820E.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyParent.uasset'
+[2019.08.27-20.05.58:987][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.05.59:013][ 67]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.05.59:014][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.05.59:014][ 67]PIE: New page: PIE session: testLevel (27 Aug 2019 22:05:59)
+[2019.08.27-20.05.59:027][ 67]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.05.59:030][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2019.08.27-20.05.59:031][ 67]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.05.59:031][ 67]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2019.08.27-20.05.59:031][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.004320s)
+[2019.08.27-20.05.59:155][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.08.27-20.05.59:193][ 67]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.05.59:207][ 67]LogInit: FAudioDevice initialized.
+[2019.08.27-20.05.59:214][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.05.59:263][ 67]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.05.59:265][ 67]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.05.59
+[2019.08.27-20.05.59:266][ 67]LogWorld: Bringing up level for play took: 0.001279
+[2019.08.27-20.05.59:285][ 67]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.27-20.05.59:291][ 67]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.27-20.05.59:292][ 67]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.08.27-20.05.59:294][ 67]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel 0.222
+[2019.08.27-20.05.59:294][ 67]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.05.59:757][ 69]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.08.27-20.06.05:035][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.06.05:036][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.06.05:053][695]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.06.05:090][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.06.05:090][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.06.05:252][695]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2019.08.27-20.06.05:276][696]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.27-20.07.09:289][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.08.27-20.07.09:290][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testLevel" FILE="../../../../../../Users/beddo/Desktop/GameJam/Saved/Autosaves/Game/Levels/testLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.27-20.07.09:542][189]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/testLevel_Auto1CB1FB96F477F44785D9CEDA8C8781B34.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Saved/Autosaves/Game/Levels/testLevel_Auto1.umap'
+[2019.08.27-20.07.09:544][189]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/testLevel' took 0.391
+[2019.08.27-20.07.09:544][189]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.391
+[2019.08.27-20.07.48:332][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.07.53:635][781]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/2DCharacter.2DCharacter
+[2019.08.27-20.08.29:908][966]BlueprintLog: New page: Compile EnemyParent
+[2019.08.27-20.08.30:257][966]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.08.27-20.08.30:649][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyParent" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyParent.uasset" SILENT=true
+[2019.08.27-20.08.30:680][  4]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/EnemyParent9DE2D4A74C6897AB7A718BBBB965A424.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyParent.uasset'
+[2019.08.27-20.08.47:526][978]BlueprintLog: New page: Compile EnemyParent
+[2019.08.27-20.08.47:851][978]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2019.08.27-20.08.48:299][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.08.48:330][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.08.48:330][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.08.48:330][ 29]PIE: New page: PIE session: testLevel (27 Aug 2019 22:08:48)
+[2019.08.27-20.08.48:330][ 29]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.08.48:334][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003026s)
+[2019.08.27-20.08.48:334][ 29]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.08.48:334][ 29]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2019.08.27-20.08.48:334][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.004014s)
+[2019.08.27-20.08.48:455][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2019.08.27-20.08.48:490][ 29]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.08.48:504][ 29]LogInit: FAudioDevice initialized.
+[2019.08.27-20.08.48:511][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.08.48:543][ 29]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.08.48:548][ 29]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.08.48
+[2019.08.27-20.08.48:548][ 29]LogWorld: Bringing up level for play took: 0.003894
+[2019.08.27-20.08.48:562][ 29]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel -0.51
+[2019.08.27-20.08.48:562][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.08.53:245][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.08.53:245][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.08.53:262][584]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.08.53:302][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.08.53:302][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.08.53:430][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.08.27-20.08.53:454][585]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.27-20.09.16:119][273]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.09.16:141][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.09.16:141][273]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.27-20.09.16:142][273]LogPlayLevel: [PlayLevel] Compiling EnemyParent before play...
+[2019.08.27-20.09.16:458][273]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2019.08.27-20.09.16:458][273]LogPlayLevel: PlayLevel: Blueprint regeneration took 316 ms (1 blueprints)
+[2019.08.27-20.09.16:458][273]PIE: New page: PIE session: testLevel (27 Aug 2019 22:09:16)
+[2019.08.27-20.09.16:458][273]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.09.16:461][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003110s)
+[2019.08.27-20.09.16:462][273]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.09.16:462][273]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2019.08.27-20.09.16:462][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.004035s)
+[2019.08.27-20.09.16:590][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.08.27-20.09.16:625][273]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.09.16:639][273]LogInit: FAudioDevice initialized.
+[2019.08.27-20.09.16:645][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.09.16:679][273]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.09.16:683][273]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.09.16
+[2019.08.27-20.09.16:684][273]LogWorld: Bringing up level for play took: 0.003411
+[2019.08.27-20.09.16:698][273]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel -0.374
+[2019.08.27-20.09.16:699][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.09.20:221][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.09.20:222][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.09.20:238][690]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.09.20:275][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.09.20:275][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.09.20:406][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.08.27-20.09.20:425][691]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.08.27-20.09.22:735][965]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.09.22:764][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.09.22:764][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.09.22:765][965]PIE: New page: PIE session: testLevel (27 Aug 2019 22:09:22)
+[2019.08.27-20.09.22:765][965]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.09.22:768][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003199s)
+[2019.08.27-20.09.22:768][965]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.09.22:769][965]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.08.27-20.09.22:769][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.004010s)
+[2019.08.27-20.09.22:879][965]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2019.08.27-20.09.22:913][965]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.09.22:927][965]LogInit: FAudioDevice initialized.
+[2019.08.27-20.09.22:934][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.09.22:967][965]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.09.22:970][965]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.09.22
+[2019.08.27-20.09.22:971][965]LogWorld: Bringing up level for play took: 0.002655
+[2019.08.27-20.09.22:985][965]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel -0.087
+[2019.08.27-20.09.22:985][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.09.31:610][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.09.31:611][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.09.31:627][920]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.09.31:664][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.09.31:665][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.09.31:803][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.08.27-20.09.31:828][921]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.08.27-20.10.46:375][714]BlueprintLog: New page: Compile EnemyParent
+[2019.08.27-20.10.46:749][714]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.08.27-20.10.47:197][765]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.10.47:225][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.10.47:225][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.10.47:225][765]PIE: New page: PIE session: testLevel (27 Aug 2019 22:10:47)
+[2019.08.27-20.10.47:225][765]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.10.47:228][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002765s)
+[2019.08.27-20.10.47:228][765]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.10.47:228][765]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2019.08.27-20.10.47:229][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.003613s)
+[2019.08.27-20.10.47:363][765]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2019.08.27-20.10.47:398][765]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.10.47:412][765]LogInit: FAudioDevice initialized.
+[2019.08.27-20.10.47:419][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.10.47:448][765]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.10.47:453][765]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.10.47
+[2019.08.27-20.10.47:453][765]LogWorld: Bringing up level for play took: 0.004159
+[2019.08.27-20.10.47:468][765]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel 0.396
+[2019.08.27-20.10.47:468][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.10.53:208][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.10.53:209][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.10.53:225][448]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.10.53:261][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.10.53:262][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.10.53:393][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.08.27-20.10.53:417][449]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.27-20.11.06:197][973]LogRenderer: Reallocating scene render targets to support 1272x708 Format 10 NumSamples 1 (Frame:1).
+[2019.08.27-20.11.11:872][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.11.18:190][349]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.11.18:212][349]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.11.18:212][349]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.27-20.11.18:213][349]LogPlayLevel: [PlayLevel] Compiling EnemyParent before play...
+[2019.08.27-20.11.18:589][349]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2019.08.27-20.11.18:589][349]LogPlayLevel: PlayLevel: Blueprint regeneration took 377 ms (1 blueprints)
+[2019.08.27-20.11.18:589][349]PIE: New page: PIE session: testLevel (27 Aug 2019 22:11:18)
+[2019.08.27-20.11.18:589][349]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.11.18:592][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002975s)
+[2019.08.27-20.11.18:593][349]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.11.18:593][349]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.08.27-20.11.18:593][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.003965s)
+[2019.08.27-20.11.18:715][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.08.27-20.11.18:750][349]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.11.18:764][349]LogInit: FAudioDevice initialized.
+[2019.08.27-20.11.18:770][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.11.18:804][349]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.11.18:808][349]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.11.18
+[2019.08.27-20.11.18:809][349]LogWorld: Bringing up level for play took: 0.004144
+[2019.08.27-20.11.18:824][349]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel -0.248
+[2019.08.27-20.11.18:824][349]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.11.21:901][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.11.21:901][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.11.21:918][712]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.11.21:955][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.11.21:955][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.11.22:091][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.08.27-20.11.22:117][713]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.27-20.11.50:917][981]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.27-20.12.03:568][841]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.27-20.12.10:519][668]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyTest.EnemyTest
+[2019.08.27-20.12.11:077][668]LogRenderer: Reallocating scene render targets to support 1272x712 Format 10 NumSamples 1 (Frame:1).
+[2019.08.27-20.12.33:794][589]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.12.34:144][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.08.27-20.12.40:054][246]LogSlate: Window 'EnemyTest' being destroyed
+[2019.08.27-20.13.01:960][741]BlueprintLog: New page: Compile EnemyParent
+[2019.08.27-20.13.02:337][741]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2019.08.27-20.13.02:637][774]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.13.02:673][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.02:673][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.13.02:673][774]PIE: New page: PIE session: testLevel (27 Aug 2019 22:13:02)
+[2019.08.27-20.13.02:673][774]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.13.02:676][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002734s)
+[2019.08.27-20.13.02:676][774]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.13.02:677][774]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2019.08.27-20.13.02:677][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.003659s)
+[2019.08.27-20.13.02:806][774]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2019.08.27-20.13.02:841][774]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.13.02:855][774]LogInit: FAudioDevice initialized.
+[2019.08.27-20.13.02:861][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.13.02:894][774]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.13.02:898][774]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.13.02
+[2019.08.27-20.13.02:899][774]LogWorld: Bringing up level for play took: 0.003961
+[2019.08.27-20.13.02:913][774]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel -0.159
+[2019.08.27-20.13.02:914][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.06:812][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.06:813][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.13.06:829][235]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.13.06:868][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.13.06:868][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.06:991][235]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.08.27-20.13.07:018][236]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.08.27-20.13.20:557][854]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.13.20:586][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.20:586][854]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.27-20.13.20:587][854]LogPlayLevel: [PlayLevel] Compiling EnemyParent before play...
+[2019.08.27-20.13.20:971][854]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2019.08.27-20.13.20:971][854]LogPlayLevel: PlayLevel: Blueprint regeneration took 385 ms (1 blueprints)
+[2019.08.27-20.13.20:971][854]PIE: New page: PIE session: testLevel (27 Aug 2019 22:13:20)
+[2019.08.27-20.13.20:971][854]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.13.20:974][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002715s)
+[2019.08.27-20.13.20:974][854]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.13.20:975][854]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2019.08.27-20.13.20:975][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.003618s)
+[2019.08.27-20.13.21:125][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.08.27-20.13.21:159][854]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.13.21:173][854]LogInit: FAudioDevice initialized.
+[2019.08.27-20.13.21:179][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.13.21:210][854]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.13.21:215][854]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.13.21
+[2019.08.27-20.13.21:215][854]LogWorld: Bringing up level for play took: 0.004062
+[2019.08.27-20.13.21:230][854]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel 0.158
+[2019.08.27-20.13.21:230][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.24:523][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.24:523][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.13.24:541][243]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.13.24:576][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.13.24:577][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.24:669][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.08.27-20.13.24:688][244]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.27-20.13.26:713][487]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.13.26:749][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.26:749][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.13.26:750][487]PIE: New page: PIE session: testLevel (27 Aug 2019 22:13:26)
+[2019.08.27-20.13.26:750][487]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.13.26:752][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002625s)
+[2019.08.27-20.13.26:753][487]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.13.26:753][487]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2019.08.27-20.13.26:753][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.003411s)
+[2019.08.27-20.13.26:874][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.08.27-20.13.26:909][487]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.13.26:923][487]LogInit: FAudioDevice initialized.
+[2019.08.27-20.13.26:929][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.13.26:964][487]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.13.26:965][487]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.13.26
+[2019.08.27-20.13.26:966][487]LogWorld: Bringing up level for play took: 0.000967
+[2019.08.27-20.13.26:980][487]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel -0.092
+[2019.08.27-20.13.26:981][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.32:016][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.32:016][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.13.32:033][996]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.13.32:071][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.13.32:072][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.32:202][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.08.27-20.13.32:228][997]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.27-20.13.39:397][838]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.13.39:759][838]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.08.27-20.13.40:437][901]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.13.40:465][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.40:465][901]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.27-20.13.40:465][901]LogPlayLevel: [PlayLevel] Compiling EnemyParent before play...
+[2019.08.27-20.13.40:808][901]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2019.08.27-20.13.40:808][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 343 ms (1 blueprints)
+[2019.08.27-20.13.40:809][901]PIE: New page: PIE session: testLevel (27 Aug 2019 22:13:40)
+[2019.08.27-20.13.40:809][901]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.13.40:811][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002613s)
+[2019.08.27-20.13.40:812][901]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.13.40:812][901]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2019.08.27-20.13.40:812][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.003562s)
+[2019.08.27-20.13.40:932][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.08.27-20.13.40:966][901]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.13.40:980][901]LogInit: FAudioDevice initialized.
+[2019.08.27-20.13.40:986][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.13.41:019][901]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.13.41:020][901]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.13.41
+[2019.08.27-20.13.41:021][901]LogWorld: Bringing up level for play took: 0.001014
+[2019.08.27-20.13.41:035][901]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel -0.037
+[2019.08.27-20.13.41:036][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.41:381][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.41:381][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.13.41:398][939]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.13.41:434][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.13.41:434][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.41:570][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.08.27-20.13.41:582][940]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.08.27-20.13.47:831][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.13.54:840][357]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.13.54:872][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.13.54:872][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.13.54:872][357]PIE: New page: PIE session: testLevel (27 Aug 2019 22:13:54)
+[2019.08.27-20.13.54:872][357]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.13.54:876][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003029s)
+[2019.08.27-20.13.54:876][357]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.13.54:876][357]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2019.08.27-20.13.54:876][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.003884s)
+[2019.08.27-20.13.55:004][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.08.27-20.13.55:039][357]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.13.55:052][357]LogInit: FAudioDevice initialized.
+[2019.08.27-20.13.55:085][357]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.13.55:087][357]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.13.55
+[2019.08.27-20.13.55:087][357]LogWorld: Bringing up level for play took: 0.001486
+[2019.08.27-20.13.55:104][357]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel 0.032
+[2019.08.27-20.13.55:105][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.14.00:698][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.14.00:698][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.14.00:732][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.14.00:733][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.14.00:859][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.14.00:866][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.08.27-20.14.00:897][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.27-20.14.02:149][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.14.16:532][646]LogHttp: Warning: 0000024E13564540: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCADAC882-4943-8DF1-A39D-B5B5128B2D79%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=628cd6964f45ee6b92a69ea7235227a8%7Cf3a9d18cf59d4e4788e9b9b04c996d9f%7Ce4f29b21-396d-446f-a570-a9ebc0a6cfb3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.08.27-20.14.16:532][646]LogHttp: Warning: 0000024E13564540 Response Header Server: awselb/2.0
+[2019.08.27-20.14.16:532][646]LogHttp: Warning: 0000024E13564540 Response Header Date: Tue, 27 Aug 2019 20:14:15 GMT
+[2019.08.27-20.14.16:532][646]LogHttp: Warning: 0000024E13564540 Response Header Content-Type: text/html
+[2019.08.27-20.14.16:532][646]LogHttp: Warning: 0000024E13564540 Response Header Content-Length: 138
+[2019.08.27-20.14.16:532][646]LogHttp: Warning: 0000024E13564540 Response Header Connection: keep-alive
+[2019.08.27-20.19.35:420][507]LogEditorViewport: Clicking on Actor (LMB): EnemyParent_C (EnemyParent)
+[2019.08.27-20.19.43:031][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-20.20.14:089][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.20.20:962][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.20.21:050][761]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.20.21:399][761]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2019.08.27-20.20.22:050][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyTest" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyTest.uasset" SILENT=true
+[2019.08.27-20.20.22:067][800]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/EnemyTest92C4A357437D1B33352ACAA96C3AA6E9.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyTest.uasset'
+[2019.08.27-20.20.27:841][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.20.34:036][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.20.37:364][838]LogEditorTransaction: Undo Move Nodes
+[2019.08.27-20.20.38:132][877]LogEditorTransaction: Undo Paste clipboard contents
+[2019.08.27-20.20.53:163][ 41]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.27-20.21.17:224][713]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.21.17:578][713]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2019.08.27-20.21.52:670][373]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.21.53:037][373]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.08.27-20.21.53:424][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyTest" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyTest.uasset" SILENT=true
+[2019.08.27-20.21.53:458][409]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/EnemyTest1C996EA540EC323575897F9614A2B349.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyTest.uasset'
+[2019.08.27-20.21.55:485][617]LogSlate: Window 'EnemyTest' being destroyed
+[2019.08.27-20.21.57:501][815]LogSlate: Window 'EnemyTest' being destroyed
+[2019.08.27-20.21.59:871][ 97]BlueprintLog: New page: Compile EnemyParent
+[2019.08.27-20.22.00:296][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2019.08.27-20.22.29:062][466]Cmd: DELETE
+[2019.08.27-20.22.29:062][466]Cmd: ACTOR DELETE
+[2019.08.27-20.22.29:076][466]LogEditorActor: Deleted Actor: EnemyParent_C
+[2019.08.27-20.22.29:234][466]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2019.08.27-20.22.29:235][466]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2019.08.27-20.22.30:238][586]LogEditorViewport: Clicking on Actor (context menu): EnemyTest_C (EnemyTest)
+[2019.08.27-20.22.30:318][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-20.22.31:048][653]LogEditorViewport: Clicking on Actor (LMB): EnemyTest_C (EnemyTest)
+[2019.08.27-20.22.56:977][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.23.11:268][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.23.30:618][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.23.40:285][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.23.44:492][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.23.44:588][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testLevel" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/testLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.27-20.23.44:734][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.08.27-20.23.44:952][833]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/testLevel7C63DC8D423FA1F0B6D8F0A41C33ACAF.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/testLevel.umap'
+[2019.08.27-20.23.44:992][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testLevel_BuiltData" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/testLevel_BuiltData.uasset" SILENT=true
+[2019.08.27-20.23.45:006][833]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/testLevel_BuiltData7F512FF349503F81413C988EB6C90256.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/testLevel_BuiltData.uasset'
+[2019.08.27-20.23.55:074][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-20.24.03:811][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.27-20.24.19:722][747]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.24.20:093][747]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.08.27-20.24.31:629][117]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.24.32:016][117]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2019.08.27-20.24.46:394][814]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.24.46:755][814]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2019.08.27-20.25.14:868][ 99]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.25.15:232][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.08.27-20.25.15:532][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyTest" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyTest.uasset" SILENT=true
+[2019.08.27-20.25.15:567][130]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/EnemyTest7492F16845E2E65BFDA5F5B5416AD59A.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyTest.uasset'
+[2019.08.27-20.25.16:458][233]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.25.16:482][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.25.16:482][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.25.16:482][233]PIE: New page: PIE session: testLevel (27 Aug 2019 22:25:16)
+[2019.08.27-20.25.16:482][233]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.25.16:485][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002912s)
+[2019.08.27-20.25.16:485][233]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.25.16:486][233]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2019.08.27-20.25.16:486][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.003713s)
+[2019.08.27-20.25.16:607][233]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.08.27-20.25.16:643][233]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.25.16:658][233]LogInit: FAudioDevice initialized.
+[2019.08.27-20.25.16:666][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.25.16:698][233]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.25.16:705][233]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.25.16
+[2019.08.27-20.25.16:706][233]LogWorld: Bringing up level for play took: 0.006950
+[2019.08.27-20.25.16:720][233]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel -0.352
+[2019.08.27-20.25.16:720][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.25.21:857][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.25.21:857][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.25.21:874][842]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.25.21:911][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.25.21:912][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.25.22:037][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.08.27-20.25.22:064][843]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.08.27-20.25.32:204][ 51]BlueprintLog: New page: Compile EnemyTest
+[2019.08.27-20.25.32:481][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.08.27-20.25.32:769][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyTest" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyTest.uasset" SILENT=true
+[2019.08.27-20.25.32:802][ 81]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/EnemyTest7E4BB8BF46DF6C1621F0DBB84A0D0630.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Enemies/EnemyTest.uasset'
+[2019.08.27-20.25.33:380][146]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-20.25.33:414][146]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.25.33:415][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-20.25.33:415][146]PIE: New page: PIE session: testLevel (27 Aug 2019 22:25:33)
+[2019.08.27-20.25.33:415][146]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_testLevel
+[2019.08.27-20.25.33:418][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003480s)
+[2019.08.27-20.25.33:419][146]LogAIModule: Creating AISystem for world testLevel
+[2019.08.27-20.25.33:419][146]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2019.08.27-20.25.33:419][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/testLevel.testLevel to /Game/Levels/UEDPIE_0_testLevel.testLevel (0.004447s)
+[2019.08.27-20.25.33:517][146]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2019.08.27-20.25.33:554][146]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-20.25.33:569][146]LogInit: FAudioDevice initialized.
+[2019.08.27-20.25.33:575][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.25.33:609][146]LogLoad: Game class is '2DGameMode_C'
+[2019.08.27-20.25.33:613][146]LogWorld: Bringing World /Game/Levels/UEDPIE_0_testLevel.testLevel up for play (max tick rate 0) at 2019.08.27-21.25.33
+[2019.08.27-20.25.33:614][146]LogWorld: Bringing up level for play took: 0.003622
+[2019.08.27-20.25.33:628][146]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_testLevel 0.556
+[2019.08.27-20.25.33:628][146]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.25.37:381][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.25.37:381][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-20.25.37:398][589]LogSlate: Window 'GameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-20.25.37:437][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-20.25.37:438][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/testLevel.testLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel' with GeneratedClass '/Game/Levels/testLevel.testLevel_C' with ClassGeneratedBy '/Game/Levels/testLevel.testLevel:PersistentLevel.testLevel'
+[2019.08.27-20.25.37:546][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.08.27-20.25.37:572][590]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.08.27-20.25.45:661][560]LogEditorTransaction: Undo Remove Components
+[2019.08.27-20.25.45:664][560]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/testLevel.testLevel:PersistentLevel.EnemyTest_2.CollisionCylinder) Component already registered.
+[2019.08.27-20.25.45:665][560]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_6:PersistentLevel.EnemyTest_C_0.Sprite0) Component already registered.
+[2019.08.27-20.25.45:666][560]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/testLevel.testLevel:PersistentLevel.EnemyTest_2.Sprite0) Component already registered.
+[2019.08.27-20.25.45:667][560]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.27-20.25.46:125][560]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.459 s
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: 
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: 
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: Stack: 
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa12d41639 UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa11d183b1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa102e4e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa10306366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa102f2f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa1034ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa1038ae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa1032929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa1c149188 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa3a0e71ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa3a11743e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa10ac769e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa10ab6e41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa3a0b1e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa3a118dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.27-20.25.46:125][560]LogOutputDevice: Error: [Callstack] 0x00007ffa3a10f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa4b0db55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa4b0cef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa4b0dd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa4b0cc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa61f3ca66 USER32.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa61f3c582 USER32.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa4b0de946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ff6e6795d3e UE4Editor.exe!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ff6e67a554c UE4Editor.exe!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ff6e67a55ca UE4Editor.exe!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ff6e67b316c UE4Editor.exe!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ff6e67b5b8e UE4Editor.exe!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa62467974 KERNEL32.DLL!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: [Callstack] 0x00007ffa625aa271 ntdll.dll!UnknownFunction []
+[2019.08.27-20.25.46:126][560]LogOutputDevice: Error: 
+[2019.08.27-20.25.46:127][560]LogStats:                SubmitErrorReport -  0.000 s
