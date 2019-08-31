@@ -9618,3 +9618,8 @@ Make sure 'PlayerToObjectsInt_C' has been compiled for  Invalid Message Node
 [2019.08.31-10.50.42:405][945]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/2DCharacterC989DF3349B7D83C1701DE9D3C1BDE4E.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Character/2DCharacter.uasset'
 [2019.08.31-10.50.42:917][  2]BlueprintLog: New page: Compile 2DCharacter
 [2019.08.31-10.50.43:414][  2]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2019.08.31-10.51.44:790][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Brightness_level" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/Brightness_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.31-10.51.44:945][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2019.08.31-10.51.45:336][ 20]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/Brightness_level84E5E5094BF232F4E1B1E982CA0609DB.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/Brightness_level.umap'
+[2019.08.31-10.51.45:352][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Brightness_level_BuiltData" FILE="../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/Brightness_level_BuiltData.uasset" SILENT=true
+[2019.08.31-10.51.45:393][ 20]LogSavePackage: Moving '../../../../../../Users/beddo/Desktop/GameJam/Saved/Brightness_level_BuiltData161A77B04902C660EE32EB9722E02A91.tmp' to '../../../../../../Users/beddo/Desktop/GameJam/Content/Levels/Brightness_level_BuiltData.uasset'
